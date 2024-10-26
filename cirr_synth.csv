@@ -1,9 +1,0 @@
-id,org_id,component,created_on,updated_on,removed_on,removed,start_date,end_date,total_stories,completed_stories,total_time (days),dependency
-1,101,Authentication,1/1/2024,2/15/2024,2/15/2024,Yes,1/1/2024,2/14/2024,15,15,44,Database
-2,102,User Profiles,1/5/2024,1/15/2024,N/A,No,1/5/2024,3/1/2024,20,10,56,Authentication
-3,101,Payments,1/10/2024,1/20/2024,N/A,No,1/10/2024,3/15/2024,30,25,65,Authentication
-4,103,Notifications,1/12/2024,3/1/2024,3/1/2024,Yes,1/12/2024,2/28/2024,10,10,47,Messaging
-5,104,Reporting,2/1/2024,2/10/2024,N/A,No,2/1/2024,4/1/2024,18,15,60,Analytics
-6,102,Messaging,2/10/2024,2/20/2024,N/A,No,2/10/2024,3/30/2024,12,10,49,User Profiles
-7,103,Dashboard,2/15/2024,4/10/2024,4/10/2024,Yes,2/15/2024,4/5/2024,25,20,51,Notifications
-8,104,Analytics,3/1/2024,3/15/2024,N/A,No,3/1/2024,5/1/2024,22,18,61,Reporting
